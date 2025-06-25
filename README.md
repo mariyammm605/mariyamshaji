@@ -1,6 +1,6 @@
 # Hi, I'm Mariyam Shaji Ambooken! 👋
 **B.Tech ECE Student @ [VIT Chennai]**  
-Passionate about AI, ML, and solving real-world problems.
+Passionate about AI, and solving real-world problems.
 
 ## 🔧 Skills
 - **Languages**: Python, Java
